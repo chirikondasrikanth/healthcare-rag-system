@@ -1,0 +1,112 @@
+[
+  {
+    "id":"FAQ001",
+    "category":"Medicare Eligibility",
+    "question":"who is eligible for medicare?",
+    "answer":"Medicare is available for people who are 65 or older, under 65 with certain disabilities, or any age with End-Stage Renal Disease or ALS.",
+    "source":"CMS Medicare Official Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: who is eligible for medicare?\nAnswer: Medicare is available for people who are 65 or older, under 65 with certain disabilities, or any age with End-Stage Renal Disease or ALS.",
+    "word_count":31
+  },
+  {
+    "id":"FAQ002",
+    "category":"Medicare Parts",
+    "question":"what does medicare part a cover?",
+    "answer":"Medicare Part A covers inpatient hospital stays, care in a skilled nursing facility, hospice care, and some home health care services.",
+    "source":"CMS Medicare Part A Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: what does medicare part a cover?\nAnswer: Medicare Part A covers inpatient hospital stays, care in a skilled nursing facility, hospice care, and some home health care services.",
+    "word_count":29
+  },
+  {
+    "id":"FAQ003",
+    "category":"Medicare Parts",
+    "question":"what does medicare part b cover?",
+    "answer":"Medicare Part B covers doctors services, outpatient care, medical supplies, and preventive services.",
+    "source":"CMS Medicare Part B Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: what does medicare part b cover?\nAnswer: Medicare Part B covers doctors services, outpatient care, medical supplies, and preventive services.",
+    "word_count":21
+  },
+  {
+    "id":"FAQ004",
+    "category":"Medicare Cost",
+    "question":"what is the medicare part b premium for 2024?",
+    "answer":"The standard Medicare Part B premium for 2024 is $174.70 per month.",
+    "source":"CMS 2024 Cost Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: what is the medicare part b premium for 2024?\nAnswer: The standard Medicare Part B premium for 2024 is $174.70 per month.",
+    "word_count":23
+  },
+  {
+    "id":"FAQ005",
+    "category":"Prescription Drugs",
+    "question":"what is medicare part d?",
+    "answer":"Medicare Part D is prescription drug coverage offered by Medicare-approved private insurance companies.",
+    "source":"CMS Part D Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: what is medicare part d?\nAnswer: Medicare Part D is prescription drug coverage offered by Medicare-approved private insurance companies.",
+    "word_count":20
+  },
+  {
+    "id":"FAQ006",
+    "category":"Enrollment",
+    "question":"when can i enroll in medicare?",
+    "answer":"You can enroll during your Initial Enrollment Period which starts 3 months before you turn 65 and ends 3 months after your 65th birthday.",
+    "source":"CMS Enrollment Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: when can i enroll in medicare?\nAnswer: You can enroll during your Initial Enrollment Period which starts 3 months before you turn 65 and ends 3 months after your 65th birthday.",
+    "word_count":32
+  },
+  {
+    "id":"FAQ007",
+    "category":"Medicare Advantage",
+    "question":"what is medicare advantage plan c?",
+    "answer":"Medicare Advantage is an alternative to Original Medicare offered by private companies. It includes Part A, Part B, and usually Part D coverage.",
+    "source":"CMS Medicare Advantage Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: what is medicare advantage plan c?\nAnswer: Medicare Advantage is an alternative to Original Medicare offered by private companies. It includes Part A, Part B, and usually Part D coverage.",
+    "word_count":31
+  },
+  {
+    "id":"FAQ008",
+    "category":"Claims",
+    "question":"how do i file a medicare claim?",
+    "answer":"In most cases your doctor files Medicare claims for you. If needed you can submit form CMS-1490S to your Medicare Administrative Contractor.",
+    "source":"CMS Claims Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: how do i file a medicare claim?\nAnswer: In most cases your doctor files Medicare claims for you. If needed you can submit form CMS-1490S to your Medicare Administrative Contractor.",
+    "word_count":31
+  },
+  {
+    "id":"FAQ009",
+    "category":"Medicare Cost",
+    "question":"what is the medicare part a deductible?",
+    "answer":"The Medicare Part A deductible for inpatient hospital care is $1,632 per benefit period in 2024.",
+    "source":"CMS 2024 Cost Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: what is the medicare part a deductible?\nAnswer: The Medicare Part A deductible for inpatient hospital care is $1,632 per benefit period in 2024.",
+    "word_count":25
+  },
+  {
+    "id":"FAQ010",
+    "category":"Preventive Care",
+    "question":"does medicare cover preventive care services?",
+    "answer":"Yes, Medicare covers yearly wellness visits, flu shots, cancer screenings, diabetes screenings, and cardiovascular screenings at no cost.",
+    "source":"CMS Preventive Care Guidelines",
+    "last_updated":"2024-01-01",
+    "processed_at":"2026-02-25T19:25:11.559349",
+    "text":"Question: does medicare cover preventive care services?\nAnswer: Yes, Medicare covers yearly wellness visits, flu shots, cancer screenings, diabetes screenings, and cardiovascular screenings at no cost.",
+    "word_count":26
+  }
+]

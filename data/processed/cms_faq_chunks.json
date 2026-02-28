@@ -1,0 +1,122 @@
+[
+  {
+    "chunk_id": "FAQ001_chunk_1",
+    "source_id": "FAQ001",
+    "category": "Medicare Eligibility",
+    "source": "CMS Medicare Official Guidelines",
+    "text": "Question: who is eligible for medicare?\nAnswer: Medicare is available for people who are 65 or older, under 65 with certain disabilities, or any age with End-Stage Renal Disease or ALS.",
+    "metadata": {
+      "category": "Medicare Eligibility",
+      "source": "CMS Medicare Official Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ002_chunk_1",
+    "source_id": "FAQ002",
+    "category": "Medicare Parts",
+    "source": "CMS Medicare Part A Guidelines",
+    "text": "Question: what does medicare part a cover?\nAnswer: Medicare Part A covers inpatient hospital stays, care in a skilled nursing facility, hospice care, and some home health care services.",
+    "metadata": {
+      "category": "Medicare Parts",
+      "source": "CMS Medicare Part A Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ003_chunk_1",
+    "source_id": "FAQ003",
+    "category": "Medicare Parts",
+    "source": "CMS Medicare Part B Guidelines",
+    "text": "Question: what does medicare part b cover?\nAnswer: Medicare Part B covers doctors services, outpatient care, medical supplies, and preventive services.",
+    "metadata": {
+      "category": "Medicare Parts",
+      "source": "CMS Medicare Part B Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ004_chunk_1",
+    "source_id": "FAQ004",
+    "category": "Medicare Cost",
+    "source": "CMS 2024 Cost Guidelines",
+    "text": "Question: what is the medicare part b premium for 2024?\nAnswer: The standard Medicare Part B premium for 2024 is $174.70 per month.",
+    "metadata": {
+      "category": "Medicare Cost",
+      "source": "CMS 2024 Cost Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ005_chunk_1",
+    "source_id": "FAQ005",
+    "category": "Prescription Drugs",
+    "source": "CMS Part D Guidelines",
+    "text": "Question: what is medicare part d?\nAnswer: Medicare Part D is prescription drug coverage offered by Medicare-approved private insurance companies.",
+    "metadata": {
+      "category": "Prescription Drugs",
+      "source": "CMS Part D Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ006_chunk_1",
+    "source_id": "FAQ006",
+    "category": "Enrollment",
+    "source": "CMS Enrollment Guidelines",
+    "text": "Question: when can i enroll in medicare?\nAnswer: You can enroll during your Initial Enrollment Period which starts 3 months before you turn 65 and ends 3 months after your 65th birthday.",
+    "metadata": {
+      "category": "Enrollment",
+      "source": "CMS Enrollment Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ007_chunk_1",
+    "source_id": "FAQ007",
+    "category": "Medicare Advantage",
+    "source": "CMS Medicare Advantage Guidelines",
+    "text": "Question: what is medicare advantage plan c?\nAnswer: Medicare Advantage is an alternative to Original Medicare offered by private companies. It includes Part A, Part B, and usually Part D coverage.",
+    "metadata": {
+      "category": "Medicare Advantage",
+      "source": "CMS Medicare Advantage Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ008_chunk_1",
+    "source_id": "FAQ008",
+    "category": "Claims",
+    "source": "CMS Claims Guidelines",
+    "text": "Question: how do i file a medicare claim?\nAnswer: In most cases your doctor files Medicare claims for you. If needed you can submit form CMS-1490S to your Medicare Administrative Contractor.",
+    "metadata": {
+      "category": "Claims",
+      "source": "CMS Claims Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ009_chunk_1",
+    "source_id": "FAQ009",
+    "category": "Medicare Cost",
+    "source": "CMS 2024 Cost Guidelines",
+    "text": "Question: what is the medicare part a deductible?\nAnswer: The Medicare Part A deductible for inpatient hospital care is $1,632 per benefit period in 2024.",
+    "metadata": {
+      "category": "Medicare Cost",
+      "source": "CMS 2024 Cost Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  },
+  {
+    "chunk_id": "FAQ010_chunk_1",
+    "source_id": "FAQ010",
+    "category": "Preventive Care",
+    "source": "CMS Preventive Care Guidelines",
+    "text": "Question: does medicare cover preventive care services?\nAnswer: Yes, Medicare covers yearly wellness visits, flu shots, cancer screenings, diabetes screenings, and cardiovascular screenings at no cost.",
+    "metadata": {
+      "category": "Preventive Care",
+      "source": "CMS Preventive Care Guidelines",
+      "last_updated": "2024-01-01"
+    }
+  }
+]

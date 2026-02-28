@@ -1,0 +1,82 @@
+[
+  {
+    "id": "FAQ001",
+    "category": "Medicare Eligibility",
+    "question": "Who is eligible for Medicare?",
+    "answer": "Medicare is available for people who are 65 or older, under 65 with certain disabilities, or any age with End-Stage Renal Disease or ALS.",
+    "source": "CMS Medicare Official Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ002",
+    "category": "Medicare Parts",
+    "question": "What does Medicare Part A cover?",
+    "answer": "Medicare Part A covers inpatient hospital stays, care in a skilled nursing facility, hospice care, and some home health care services.",
+    "source": "CMS Medicare Part A Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ003",
+    "category": "Medicare Parts",
+    "question": "What does Medicare Part B cover?",
+    "answer": "Medicare Part B covers doctors services, outpatient care, medical supplies, and preventive services.",
+    "source": "CMS Medicare Part B Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ004",
+    "category": "Medicare Cost",
+    "question": "What is the Medicare Part B premium for 2024?",
+    "answer": "The standard Medicare Part B premium for 2024 is $174.70 per month.",
+    "source": "CMS 2024 Cost Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ005",
+    "category": "Prescription Drugs",
+    "question": "What is Medicare Part D?",
+    "answer": "Medicare Part D is prescription drug coverage offered by Medicare-approved private insurance companies.",
+    "source": "CMS Part D Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ006",
+    "category": "Enrollment",
+    "question": "When can I enroll in Medicare?",
+    "answer": "You can enroll during your Initial Enrollment Period which starts 3 months before you turn 65 and ends 3 months after your 65th birthday.",
+    "source": "CMS Enrollment Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ007",
+    "category": "Medicare Advantage",
+    "question": "What is Medicare Advantage Plan C?",
+    "answer": "Medicare Advantage is an alternative to Original Medicare offered by private companies. It includes Part A, Part B, and usually Part D coverage.",
+    "source": "CMS Medicare Advantage Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ008",
+    "category": "Claims",
+    "question": "How do I file a Medicare claim?",
+    "answer": "In most cases your doctor files Medicare claims for you. If needed you can submit form CMS-1490S to your Medicare Administrative Contractor.",
+    "source": "CMS Claims Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ009",
+    "category": "Medicare Cost",
+    "question": "What is the Medicare Part A deductible?",
+    "answer": "The Medicare Part A deductible for inpatient hospital care is $1,632 per benefit period in 2024.",
+    "source": "CMS 2024 Cost Guidelines",
+    "last_updated": "2024-01-01"
+  },
+  {
+    "id": "FAQ010",
+    "category": "Preventive Care",
+    "question": "Does Medicare cover preventive care services?",
+    "answer": "Yes, Medicare covers yearly wellness visits, flu shots, cancer screenings, diabetes screenings, and cardiovascular screenings at no cost.",
+    "source": "CMS Preventive Care Guidelines",
+    "last_updated": "2024-01-01"
+  }
+]
